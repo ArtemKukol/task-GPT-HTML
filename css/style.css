@@ -1,0 +1,56 @@
+h1 {
+   color: #333;
+   font-size: 36px;
+   text-align: center;
+}
+
+p {
+   font-size: 18px;
+   line-height: 1.5;
+   margin-bottom: 20px;
+}
+
+ul {
+   list-style-type: square;
+   margin-left: 30px;
+}
+
+img {
+   max-width: 100%;
+   height: auto;
+   display: block;
+   margin: 20px auto;
+   border-radius: 50%;
+}
+
+a {
+   color: #007bff;
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
+form {
+   max-width: 33%;
+   margin: 0 auto;
+}
+
+fieldset {
+   border: none;
+   padding: 0;
+}
+
+label {
+   display: block;
+   margin-bottom: 10px;
+}
+
+input, textarea {
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 15px;
+   border: 1 solid #ccc;
+   border-radius: 4px;
+}
